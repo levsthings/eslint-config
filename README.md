@@ -7,13 +7,11 @@
 ## Rules
 
 #### Rule set based on:
-
 - ESLint recommended
 - [JavaScript Standard Style](https://github.com/feross/standard)
 - [JavaScript Standard React](https://github.com/feross/eslint-config-standard-react)
 
 #### Opinions
-
 - `4, spaces` for easier readability
 - Keeps most of the rules but overrides nonpragmatic and artifact focused rules.
 
