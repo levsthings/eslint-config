@@ -1,8 +1,8 @@
 {
     "extends": [
         "eslint:recommended",
-        "eslint-config-standard",
-        "react"
+        "standard",
+        "standard-react"
     ],
     "rules": {
         "indent": ["error", 4],
