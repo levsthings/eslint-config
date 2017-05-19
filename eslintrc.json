@@ -1,0 +1,11 @@
+{
+    "extends": [
+        "eslint:recommended",
+        "eslint-config-standard",
+        "react"
+    ],
+    "rules": {
+        "indent": ["error", 4],
+        "space-before-function-paren": 0
+    }
+}
