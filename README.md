@@ -1,6 +1,6 @@
 # eslint-config-monolambda
-[![npm version](https://img.shields.io/npm/v/@monolambda/eslint-config.svg?style=flat)](https://www.npmjs.com/package/eslint-config-monolambda)
-[![Travis branch](https://img.shields.io/travis/monolambda/eslint-config/master.svg)](https://travis-ci.org/monolambda/eslint-config-monolambda.svg?branch=master)
+[![npm version](https://img.shields.io/npm/v/@monolambda/eslint-config.svg)](https://www.npmjs.com/package/eslint-config-monolambda)
+[![Travis branch](https://img.shields.io/travis/monolambda/eslint-config-monolambda/master.svg)](https://travis-ci.org/monolambda/eslint-config-monolambda.svg?branch=master)
 [![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/eslint-config.svg)](https://gemnasium.com/github.com/monolambda/eslint-config-monolambda)
 [![npm](https://img.shields.io/npm/dt/@monolambda/eslint-config.svg)](https://www.npmjs.com/package/eslint-config-monolambda)
 
@@ -19,7 +19,7 @@
 
 ## Installation:
 ```sh
-npm install eslint-config-monolambda eslint --save
+npm install @monolambda/eslint-config eslint --save
 ``` 
 ## Usage
 In `.eslintrc`:
