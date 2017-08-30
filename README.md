@@ -1,6 +1,6 @@
 # eslint-config
 [![npm version](https://img.shields.io/npm/v/@monolambda/eslint-config.svg)](https://www.npmjs.com/package/@monolambda/eslint-config)
-[![Travis branch](https://img.shields.io/travis/monolambda/eslint-config-monolambda/master.svg)](https://travis-ci.org/monolambda/eslint-config-monolambda)
+[![Travis branch](https://img.shields.io/travis/monolambda/eslint-config/master.svg)](https://travis-ci.org/monolambda/eslint-config)
 [![Dependency Status](https://gemnasium.com/badges/github.com/monolambda/eslint-config.svg)](https://gemnasium.com/github.com/monolambda/eslint-config)
 [![npm](https://img.shields.io/npm/dt/@monolambda/eslint-config.svg)](https://www.npmjs.com/package/@monolambda/eslint-config)
 
@@ -8,7 +8,7 @@
 
 The new version of the package is called [@monolambda/eslint-config](https://www.npmjs.com/package/@monolambda/eslint-config) and the old one is deprecated.
 
-## Rules
+## Rules>
 
 #### Rule set based on:
 - ESLint Recommended
