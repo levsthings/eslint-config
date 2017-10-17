@@ -16,7 +16,8 @@ The new version of the package is called [@monolambda/eslint-config](https://www
 - [JavaScript Standard React](https://github.com/feross/eslint-config-standard-react)
 
 #### Opinions:
-- Uses `4, spaces` for easier readability
+- Uses `babel-eslint` parser by default.
+- Uses `4, spaces` for easier readability.
 - Keeps most of the rules recommended rules.
 
 **Note:** The current ruleset is subject to change and under review, please feel free to send a PR for rules you feel that are over the top.

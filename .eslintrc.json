@@ -20,7 +20,11 @@
         ],
         "space-before-function-paren": [
             "error",
-            "always"
+            {
+                "named": "never",
+                "anonymous": "always",
+                "asyncArrow": "always"
+            }
         ],
         "prefer-const": [
             "error",
