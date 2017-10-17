@@ -17,7 +17,7 @@ The new version of the package is called [@monolambda/eslint-config](https://www
 
 #### Opinions:
 - Uses `4, spaces` for easier readability
-- Keeps most of the rules but overrides nonpragmatic and artifact focused rules.
+- Keeps most of the rules recommended rules.
 
 **Note:** The current ruleset is subject to change and under review, please feel free to send a PR for rules you feel that are over the top.
 
