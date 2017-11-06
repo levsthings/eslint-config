@@ -15,6 +15,9 @@ The new version of the package is called [@monolambda/eslint-config](https://www
 - [JavaScript Standard Style](https://github.com/feross/standard)
 - [JavaScript Standard React](https://github.com/feross/eslint-config-standard-react)
 
+#### Included Plugins
+- `eslint-plugin-jest`
+
 #### Opinions:
 - Uses `babel-eslint` parser by default.
 - Uses `4, spaces` for easier readability.

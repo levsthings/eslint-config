@@ -1,29 +1,30 @@
 {
-  "name": "@monolambda/eslint-config",
-  "description": "ESLint config based on feross/standard",
-  "version": "1.6.1",
-  "author": "levsthings",
-  "license": "Unlicense",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/monolambda/eslint-config"
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js"
-  },
-  "dependencies": {
-    "babel-eslint": "^8.0.1",
-    "eslint": "^4.9.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-config-standard-react": "^5.0.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^5.2.0",
-    "eslint-plugin-promise": "^3.6.0",
-    "eslint-plugin-react": "^7.4.0",
-    "eslint-plugin-standard": "^3.0.1"
-  },
-  "devDependencies": {
-    "tape": "^4.8.0"
-  }
+    "name": "@monolambda/eslint-config",
+    "description": "ESLint config based on feross/standard",
+    "version": "1.7.0",
+    "author": "levsthings",
+    "license": "Unlicense",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/monolambda/eslint-config"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "tape test/*.js"
+    },
+    "dependencies": {
+        "babel-eslint": "^8.0.1",
+        "eslint": "^4.10.0",
+        "eslint-config-standard": "^10.2.1",
+        "eslint-config-standard-react": "^5.0.0",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-jest": "^21.2.0",
+        "eslint-plugin-node": "^5.2.1",
+        "eslint-plugin-promise": "^3.6.0",
+        "eslint-plugin-react": "^7.4.0",
+        "eslint-plugin-standard": "^3.0.1"
+    },
+    "devDependencies": {
+        "tape": "^4.8.0"
+    }
 }
