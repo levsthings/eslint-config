@@ -1,23 +1,14 @@
 {
-    "extends": [
-        "eslint:recommended",
-        "standard",
-        "standard-react"
-    ],
+    "extends": ["eslint:recommended", "standard", "standard-react"],
+    "plugins": ["jest"],
     "parser": "babel-eslint",
+    "env": {
+        "jest/globals": true
+    },
     "rules": {
-        "indent": [
-            "error",
-            4
-        ],
-        "react/jsx-indent": [
-            "error",
-            4
-        ],
-        "react/jsx-indent-props": [
-            "error",
-            4
-        ],
+        "indent": ["error", 4],
+        "react/jsx-indent": ["error", 4],
+        "react/jsx-indent-props": ["error", 4],
         "space-before-function-paren": [
             "error",
             {
@@ -31,12 +22,9 @@
             {
                 "destructuring": "any",
                 "ignoreReadBeforeAssign": false
-            }       
+            }
         ],
-        "generator-star-spacing": [
-            "error",
-            "after"
-        ],
+        "generator-star-spacing": ["error", "after"],
         "arrow-parens": [
             "error",
             "as-needed",

@@ -1,7 +1,7 @@
 {
     "name": "@monolambda/eslint-config",
     "description": "ESLint config based on feross/standard",
-    "version": "1.6.2",
+    "version": "1.7.4",
     "author": "levsthings",
     "license": "Unlicense",
     "repository": {
